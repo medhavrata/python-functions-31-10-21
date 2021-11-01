@@ -3,3 +3,5 @@ pylint
 black
 click
 pytest-cov
+fastapi
+uvicorn[standard]
